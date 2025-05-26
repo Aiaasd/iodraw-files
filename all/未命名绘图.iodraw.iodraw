@@ -8,10 +8,10 @@
           <mxGeometry x="290" y="20" width="146" height="49" as="geometry" />
         </mxCell>
         <mxCell id="balQJqn-sSEGjxgYQ8wD-2" value="3x3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="119" width="85" height="49" as="geometry" />
+          <mxGeometry x="200" y="110" width="85" height="49" as="geometry" />
         </mxCell>
         <mxCell id="balQJqn-sSEGjxgYQ8wD-3" value="1x1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="155" y="119" width="85" height="49" as="geometry" />
+          <mxGeometry x="530" y="119" width="85" height="49" as="geometry" />
         </mxCell>
         <mxCell id="balQJqn-sSEGjxgYQ8wD-4" value="BN" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="90" y="217" width="79" height="49" as="geometry" />
@@ -42,6 +42,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="197" y="94" />
+              <mxPoint x="460" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
