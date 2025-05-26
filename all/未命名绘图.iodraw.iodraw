@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="balQJqn-sSEGjxgYQ8wD-1" value="Token Mixer" style="whiteSpace=wrap;strokeWidth=2;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="57" y="20" width="146" height="49" as="geometry" />
+          <mxGeometry x="290" y="20" width="146" height="49" as="geometry" />
         </mxCell>
         <mxCell id="balQJqn-sSEGjxgYQ8wD-2" value="3x3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="119" width="85" height="49" as="geometry" />
